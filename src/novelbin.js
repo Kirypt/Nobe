@@ -1,4 +1,4 @@
-// Format for Mangayomi/JavaScript-based extensions
+// Example for NovelBin
 const extention = {
   name: "NovelBin",
   id: 422341483,
@@ -10,6 +10,4 @@ const extention = {
   hasCloudflare: true,
   version: "0.0.3"
 };
-
-// Required export
 typeof exports !== 'undefined' ? exports.extention = extention : null;
