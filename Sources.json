@@ -1,16 +1,6 @@
 {
-  "sources": [
-    {
-      "name": "NovelBin",
-      "id": 422341483,
-      "baseUrl": "https://novelbin.com",
-      "lang": "en",
-      "typeSource": "single",
-      "iconUrl": "https://www.google.com/s2/favicons?domain=novelbin.com",
-      "isNsfw": false,
-      "hasCloudflare": true,
-      "version": "0.0.3",
-      "sourceCodeUrl": "https://raw.githubusercontent.com/Kirypt/Nobe/main/src/novelbin.js"
-    }
-  ]
+  "sources": [{
+    "name": "NovelBin",
+    "sourceCodeUrl": "https://raw.githubusercontent.com/kirypt/nobe/main/src/novelbin.js"
+  }]
 }
